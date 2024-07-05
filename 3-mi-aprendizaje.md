@@ -1,4 +1,4 @@
-#Aprendizaje Obtenido#
+#Aprendizaje Obtenido
 
 Antes de abordar Docker Compose, tenía un buen entendimiento de Docker y su utilidad para encapsular aplicaciones en contenedores. Sin embargo, no tenía experiencia en la gestión de aplicaciones más complejas que involucraran múltiples servicios interdependientes.
 
